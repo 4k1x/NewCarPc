@@ -30,7 +30,7 @@ SOURCES += \
     Sources/player.cpp
 
 HEADERS += \
-        Headers/mainwindow.h \
+        Sources/mainwindow.h \
     Sources/player.h
 
 FORMS += \
