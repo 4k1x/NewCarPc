@@ -26,13 +26,18 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
         Sources/main.cpp \
-        Sources/mainwindow.cpp
+        Sources/mainwindow.cpp \
+    Sources/player.cpp
 
 HEADERS += \
         Headers/mainwindow.h \
+    Sources/player.h
 
 FORMS += \
         Forms/mainwindow.ui
 
 DISTFILES += \
         README.md
+
+RESOURCES += \
+    resources.qrc

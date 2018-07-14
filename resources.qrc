@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/buttons"/>
+    <qresource prefix="/new/images"/>
+    <qresource prefix="/new/player"/>
+</RCC>
